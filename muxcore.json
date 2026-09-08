@@ -1,0 +1,10 @@
+{
+  "name": "AI Tickets",
+  "description": "Automatic household tickets that an AI can classify and resolve",
+  "version": "0.1.0",
+  "author": "Muxcore-Media",
+  "roles": ["ai"],
+  "capabilities": ["ai.tickets", "settings"],
+  "contracts": ["contracts-ai"],
+  "minCoreVersion": "0.5.8"
+}

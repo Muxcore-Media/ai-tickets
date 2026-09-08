@@ -1,0 +1,4 @@
+/ai-tickets
+*.exe
+*.test
+dist/
